@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/s6-Top to start.unity
+- path: Assets/Scenes/s9-Touchscreen Movement.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
