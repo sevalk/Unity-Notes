@@ -58,21 +58,24 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\S3\CameraController.cs" />
     <Compile Include="Assets\scripts\s7\Waypoint.cs" />
+    <Compile Include="Assets\scripts\s9\Movement.cs" />
     <Compile Include="Assets\scripts\Ads\RewardAdController.cs" />
     <Compile Include="Assets\scripts\S3\Player.cs" />
+    <Compile Include="Assets\scripts\s9\MovementV2.cs" />
     <Compile Include="Assets\scripts\S2\cubeScroller.cs" />
+    <Compile Include="Assets\scripts\s8\Stack.cs" />
     <Compile Include="Assets\scripts\s4\Player1.cs" />
     <Compile Include="Assets\scripts\S1\Rocket.cs" />
     <Compile Include="Assets\scripts\Ads\AdsManager.cs" />
+    <Compile Include="Assets\scripts\s8\Drop.cs" />
     <Compile Include="Assets\scripts\s4\SaveLoad.cs" />
     <Compile Include="Assets\scripts\Ads\BannerAdController.cs" />
     <Compile Include="Assets\scripts\s6\TopToStart.cs" />
     <Compile Include="Assets\scripts\s5\Player2.cs" />
     <Compile Include="Assets\scripts\Ads\EventManager.cs" />
-    <Compile Include="Assets\scripts\s8\Stack.cs" />
-    <Compile Include="Assets\scripts\s8\Drop.cs" />
-    <Compile Include="Assets\scripts\s9\Movement.cs" />
-    <Compile Include="Assets\scripts\s9\MovementV2.cs" />
+    <Compile Include="Assets\scripts\s10\DeformPlane.cs" />
+    <Compile Include="Assets\scripts\s10\RaycastCam.cs" />
+    <Compile Include="Assets\scripts\s10\RingScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
